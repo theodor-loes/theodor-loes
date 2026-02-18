@@ -21,7 +21,7 @@ Jeg liker å bygge prosjekter som kombinerer god arkitektur med intuitive og lit
 Et interaktivt dashboard hvor brukeren navigerer mellom værdata og togavganger ved hjelp av en bevegelig figur i stedet for en klassisk listevisning.  
 Fokus på OOP-struktur og kreativ UX.
 
-→ Se repository: [Klikk her](theodor-loes/pocket-api-gadget/README.md)
+→ Se repository: [pocket-api-gadget](https://github.com/theodor-loes/pocket-api-gadget)
 
 ---
 
