@@ -23,6 +23,15 @@ Fokus på OOP-struktur og kreativ UX.
 
 → Se repository: [pocket-api-gadget](https://github.com/theodor-loes/pocket-api-gadget)
 
+### 🔹 French Vocabulary Game
+Et enkelt, men gjennomtenkt spill i windows-terminalen for pugging av franske gloser. En mer effektiv og brukerdefinert språklæringsmodell, ment for å hjelpe med fransk litteratur.
+
+→ Se repository: [French-Vocabulary-Game](https://github.com/theodor-loes/French-Vocabulary-Game)
+
+### 🔹 Birdbox
+Et IoT prosjekt som blander en ESP32 og en ARDUCAM-modul for å observere fugler i et fuglehus, sett gjennom en simpel nettside.
+
+→ Se repository: [Birdbox](https://github.com/theodor-loes/Birdbox)
 ---
 
 ## 🎯 Hva jeg ser etter
