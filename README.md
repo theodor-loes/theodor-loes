@@ -32,6 +32,7 @@ Et enkelt, men gjennomtenkt spill i windows-terminalen for pugging av franske gl
 Et IoT prosjekt som blander en ESP32 og en ARDUCAM-modul for å observere fugler i et fuglehus, sett gjennom en simpel nettside.
 
 → Se repository: [Birdbox](https://github.com/theodor-loes/Birdbox)
+
 ---
 
 ## 🎯 Hva jeg ser etter
